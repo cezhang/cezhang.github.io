@@ -1,0 +1,11 @@
+[HOW-TO]Code read
+- fork a repo
+- create a branch starting with "CR-{the original branch name}"
+- use golang comment block starting with a keyword 
+  /* CR:
+  ....
+  */
+- use golang comment line starting with keyword
+  // CR:
+- after finish, commit to repo
+- do that again
